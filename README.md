@@ -1,2 +1,2 @@
-# blog
-Hamisme's Blog
+# Hamisme's Blog
+
